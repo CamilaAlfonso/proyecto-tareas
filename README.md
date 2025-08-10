@@ -274,15 +274,12 @@ flutter test
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abrir un Pull Request
 
-## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ## 👥 Autor
 
-Desarrollado con la ayuda de **Cursor AI** para demostrar las capacidades de desarrollo asistido por IA.
+Maria Camila Alfonso
 
 ---
 
-**Nota**: Este proyecto es un ejemplo educativo que demuestra la integración de tecnologías modernas para el desarrollo de aplicaciones móviles con backend robusto.
 

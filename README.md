@@ -281,5 +281,25 @@ flutter test
 Maria Camila Alfonso
 
 ---
+<img width="2555" height="1369" alt="image" src="https://github.com/user-attachments/assets/aa413c88-eb65-48c4-b071-45a8ff66ecba" />
+
+<img width="554" height="1131" alt="image" src="https://github.com/user-attachments/assets/f95a36c4-8705-429c-bdf1-916882fedfd3" />
+
+<img width="569" height="1157" alt="image" src="https://github.com/user-attachments/assets/a49a1284-2d5e-4be7-aaf5-b9a2f14b68c7" />
+
+<img width="592" height="1158" alt="image" src="https://github.com/user-attachments/assets/87e595ef-bfb8-42d9-afa6-b4c81c04c045" />
+
+<img width="569" height="1136" alt="image" src="https://github.com/user-attachments/assets/d546bb1a-3a70-4c11-b017-8cea5b4be1bf" />
+
+<img width="578" height="1139" alt="image" src="https://github.com/user-attachments/assets/0362168c-86ff-4c23-8b1f-8e96e9a3bfdf" />
+
+<img width="548" height="1135" alt="image" src="https://github.com/user-attachments/assets/8ad9f051-8552-4db9-95e1-4f5ce588770a" />
+
+
+
+
+
+
+
 
 
